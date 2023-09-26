@@ -1,6 +1,6 @@
 - 👋 # Welcome to My GitHub Profile! 👋
 
-I'm Sukanya Murugan
+I'm Sukanya Murugan.
 I am a passionate Data Analyst with expertise in Python, SQL, and data visualization tools like Tableau. 
 I'm enthusiastic about leveraging data to drive meaningful insights and support informed decision-making.
 -
