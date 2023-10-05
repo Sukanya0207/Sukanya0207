@@ -1,7 +1,8 @@
 - 👋 # Welcome to My GitHub Profile! 👋
 
-I'm Sukanya Murugan.
-I am a passionate Data Analyst with expertise in Python, SQL, and data visualization tools like Tableau. 
+# I'm Sukanya Murugan.
+- 📝 Resume [SukanyaMurugan_Resume.pdf](https://github.com/Sukanya0207/Sukanya0207/files/12820011/SukanyaMurugan_Resume.pdf)
+As a data analyst, I love learning and working hard. I'm eager to use my skills and experience to help any organization that uses data to make decisions. I know how to use Tableau, Microsoft Excel, Python, and MySQL to analyze data, even when it's complicated. I am a passionate Data Analyst with expertise in Python, SQL, and data visualization tools like Tableau. 
 I'm enthusiastic about leveraging data to drive meaningful insights and support informed decision-making.
 -
 ## Skills
@@ -35,8 +36,11 @@ I'm enthusiastic about leveraging data to drive meaningful insights and support 
 - Data Analysis and Data Visualization using Excel, Skill-Lync
 
 ## Connect with Me
+## Contact me
+- ✉️ mail me : sukanyamurugan87@gmail.com
+- 📞 Call : 7874466237
 - LinkedIn: (https://www.linkedin.com/in/sukanya-murugan-93025417b/)
-- Email: sukanyamurugan87@gmail.com
+
 
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or have any questions!
 --->
