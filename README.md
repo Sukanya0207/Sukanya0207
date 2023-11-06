@@ -35,6 +35,12 @@ I'm enthusiastic about leveraging data to drive meaningful insights and support 
 - Data Analysis and Data Visualization with Tableau, Skill-Lync
 - Data Analysis and Data Visualization using Excel, Skill-Lync
 
+## Projects:
+
+|Sno|**Project**|**Skills**|**Links**| **Date of Completion**|
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 
+
 ## Connect with Me
 ## Contact me
 - ✉️ mail me : sukanyamurugan87@gmail.com
