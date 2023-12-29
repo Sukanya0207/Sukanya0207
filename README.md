@@ -39,7 +39,7 @@ I'm enthusiastic about leveraging data to drive meaningful insights and support 
 
 |Sno|**Project**|**Skills**|**Links**| **Date of Completion**|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|1|EDA on Vehicle Insurance Customer Data|Python|[Project Link]|  |
+|1|EDA on Vehicle Insurance Customer Data|Python|[[Project Link]](https://github.com/Sukanya0207/Data-Analyst-Projects/tree/main/PROJECT%201%20STEM%20FIELD%20ANALYSIS)|  |
 |2|Library Book Management System|Python, SQL|[link](https://github.com/SridharKadhiri/Library-Book-Management-System-using-Python-and-SQL)|  |
 |3| EDA on Alumni Dataset | SQL | [link](https://github.com/SridharKadhiri/EDA-on-Alumini-dataset-using-SQL-) |  |
 |4| E-Commerce Explora | SQL | [link](https://github.com/SridharKadhiri/E-Commerce-Explora-SQL) |  |
