@@ -48,8 +48,7 @@ I'm enthusiastic about leveraging data to drive meaningful insights and support 
 |7| Unveiling The Gender Gap in STEM Jobs of Tamil Nadu | Tableau, Excel | [Tableau_online] |  |
 |8| Musical Data Analysis| MySQL, MS Power Point | [Link] |  |
 |9| Uber Pickup Services Analysis | Python, MS Power Point | [Presentation] | |
-|10|Criminal Activities In India | Tableau |  |
-|11| ICC Worldcup Match Analysis | Power BI | |
+|10| ICC Worldcup Match Analysis | Power BI | |
 
 ## Connect with Me
 ## Contact me
