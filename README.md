@@ -46,7 +46,7 @@ I'm enthusiastic about leveraging data to drive meaningful insights and support 
 |5| Analyzing Crimes in India | Python, SQL, MS Power Point, Tableau | [link] |  |
 |6| Analysing Literacy Trends in Tamil Nadu | Tableau, Excel  | [Tableau_online] |  |
 |7| Unveiling The Gender Gap in STEM Jobs of Tamil Nadu | Tableau, Excel | [Tableau_online] |  |
-|8| Musical Data Analysis| MySQL, MS Power Point |[ [Project Link]] (https://github.com/Sukanya0207/Data-Analyst-Projects/tree/main/Music%20Album%20Analysis) |  |
+|8| Musical Data Analysis| MySQL, MS Power Point |[[Project Link]](https://github.com/Sukanya0207/Data-Analyst-Projects/tree/main/Music%20Album%20Analysis)|  |
 |9| Uber Pickup Services Analysis | Python, MS Power Point | [Presentation] | |
 |10| ICC Worldcup Match Analysis | Power BI | |
 
