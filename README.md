@@ -40,7 +40,7 @@ I'm enthusiastic about leveraging data to drive meaningful insights and support 
 |Sno|**Project**|**Skills**|**Links**| **Date of Completion**|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 |1|Analyzing Education Trends in Tamil Nadu |Excel, Tableau |[[Project Link]](https://github.com/Sukanya0207/Data-Analyst-Projects/tree/main/PROJECT%201%20STEM%20FIELD%20ANALYSIS)|  |
-|2|Library Book Management System|Python, SQL|[link]|  |
+|2|Library Book Management System|Python, SQL|[Project link]|  |
 |3| EDA on Alumni Dataset | SQL | [link] |  |
 |4| E-Commerce Explora | SQL | [link] |  |
 |5| Analyzing Crimes in India | Python, SQL, MS Power Point, Tableau | [link] |  |
