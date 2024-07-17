@@ -40,15 +40,12 @@ I'm enthusiastic about leveraging data to drive meaningful insights and support 
 |Sno|**Project**|**Skills**|**Links**| **Date of Completion**|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 |1|Analyzing Education Trends in Tamil Nadu |Excel, Tableau |[[Project Link]](https://github.com/Sukanya0207/Data-Analyst-Projects/tree/main/PROJECT%201%20STEM%20FIELD%20ANALYSIS)|  |
-|2|Library Book Management System|Python, SQL|[Project link]|  |
-|3| EDA on Alumni Dataset | SQL | [link] |  |
-|4| E-Commerce Explora | SQL | [link] |  |
-|5| Analyzing Crimes in India | Python, SQL, MS Power Point, Tableau | [link] |  |
-|6| Analysing Literacy Trends in Tamil Nadu | Tableau, Excel  | [Tableau_online] |  |
-|7| Unveiling The Gender Gap in STEM Jobs of Tamil Nadu | Tableau, Excel | [Tableau_online] |  |
-|8| Musical Data Analysis| MySQL, MS Power Point |[[Project Link]](https://github.com/Sukanya0207/Data-Analyst-Projects/tree/main/Music%20Album%20Analysis)|  |
-|9| Uber Pickup Services Analysis | Python, MS Power Point | [Presentation] | |
-|10| ICC Worldcup Match Analysis | Power BI | |
+|2|Library Book Management System|Python, SQL|[[Project link]](https://github.com/Sukanya0207/Data-Analyst-Projects/blob/main/1B_LibraryBookManagement.ipynb)|  |
+|3| E-Commerce Explora | SQL | [[link]](https://github.com/Sukanya0207/Data-Analyst-Projects/blob/main/PROJECT%201%20Ecommerce.sql)|  |
+|4| Analyzing Crimes in India | Python, SQL, MS Power Point, Tableau | [[link]](https://github.com/Sukanya0207/Data-Analyst-Projects/blob/main/Criminal%20Activities%20In%20India%20Project%201.zip)|  |
+|5| Analysing Literacy Trends in Tamil Nadu | Tableau, Excel  | [Tableau_online](https://github.com/Sukanya0207/Data-Analyst-Projects/tree/main/PROJECT%202%20Gender%20Bias%20in%20Sc%20and%20Tech%20Fields)|  |
+|6| Musical Data Analysis| MySQL, MS Power Point |[[Project Link]](https://github.com/Sukanya0207/Data-Analyst-Projects/tree/main/Music%20Album%20Analysis)|  |
+|7| Uber Pickup Services Analysis | Python, MS Power Point | [[Project link]](https://github.com/Sukanya0207/Data-Analyst-Projects/blob/main/Exploration%20of%20Uber%20rides.ipynb) | |
 
 ## Connect with Me
 ## Contact me
